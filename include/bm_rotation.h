@@ -9,9 +9,9 @@
 #define BM_ROTATION_H_
 
 #include <boost/config.hpp>
-#include "bm_data.hpp"
+#include "/home/oriol/LINERLIB/include/bm_data.hpp"
 
-using namespace std;
+//using namespace std;
 using namespace BM;
 
 class rotation {
